@@ -1,0 +1,1 @@
+import{s as e}from"./link-XIRh00or.js";import{a as t,b as n,u as r}from"./index-CW01eMtO.js";import{t as i}from"./doc-page-BY2tN1xN.js";var a=e();function o(){let{slug:e}=t.useParams(),o=r[e];if(!o)throw n();return(0,a.jsx)(i,{page:o,cta:e===`fit`?{to:`/appointments/request`,label:`Request Appointment`}:void 0})}export{o as component};

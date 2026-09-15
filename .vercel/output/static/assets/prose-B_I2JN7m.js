@@ -1,0 +1,1 @@
+import{s as e}from"./link-XIRh00or.js";import{m as t}from"./index-CW01eMtO.js";var n=e();function r({children:e,className:r}){return(0,n.jsx)(`div`,{className:t(`mx-auto max-w-3xl space-y-5 px-4 pb-16 text-base leading-relaxed text-fg/90 md:px-8`,r),children:e})}export{r as t};

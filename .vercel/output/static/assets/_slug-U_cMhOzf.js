@@ -1,0 +1,1 @@
+import{s as e}from"./link-XIRh00or.js";import{b as t,l as n,o as r}from"./index-CW01eMtO.js";import{t as i}from"./doc-page-BY2tN1xN.js";var a=e();function o(){let{slug:e}=r.useParams(),o=n[e];if(!o)throw t();return(0,a.jsx)(i,{page:o,image:e===`hinge`||e===`making`?{src:`/images/editorial/hinge.jpg`,alt:`Hinge detail`}:void 0})}export{o as component};

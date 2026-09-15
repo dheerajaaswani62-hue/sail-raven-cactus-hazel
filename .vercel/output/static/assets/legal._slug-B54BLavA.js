@@ -1,0 +1,1 @@
+import{s as e}from"./link-XIRh00or.js";import{b as t,f as n,n as r}from"./index-CW01eMtO.js";import{t as i}from"./doc-page-BY2tN1xN.js";var a=e();function o(){let{slug:e}=r.useParams(),o=n[e];if(!o)throw t();return(0,a.jsx)(i,{page:o})}export{o as component};

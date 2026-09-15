@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DATUM — Measured, not decorated",
+      "hasCanvas": false,
+      "bodyTextLen": 1762,
+      "bodyTextHash": "8489637615cfe53bce29faa96285522d24d1a1feb4e1860ecd908fa3f050e5ec",
+      "bodyTextPrefix": "COMPLIMENTARY FITTING — PRIVATE APPOINTMENTS FRAMES CRAFT FIELD ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DATUM — Measured, not decorated",
+      "hasCanvas": false,
+      "bodyTextLen": 1718,
+      "bodyTextHash": "9efe7efec434163a3a9b87ad5ffb1d879f0dd06a11066251bf90da68f634a3f3",
+      "bodyTextPrefix": "COMPLIMENTARY FITTING — PRIVATE APPOINTMENTS DATUM INDEPENDENT E",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/prod-preview.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

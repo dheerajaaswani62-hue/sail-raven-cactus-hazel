@@ -1,0 +1,1 @@
+import{s as e}from"./link-XIRh00or.js";import{f as t}from"./index-CW01eMtO.js";import{t as n}from"./doc-page-BY2tN1xN.js";var r=e(),i=()=>(0,r.jsx)(n,{page:t.privacy});export{i as component};
